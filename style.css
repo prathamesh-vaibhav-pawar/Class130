@@ -1,0 +1,12 @@
+body{
+    background-size:cover;
+}
+.header{
+    margin: 0px;
+    width: 100%;
+    
+}
+Canvas{
+    border:2px,solid,black;
+    border-radius: 20px;
+}
